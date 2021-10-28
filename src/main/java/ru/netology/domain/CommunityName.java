@@ -5,4 +5,5 @@ public class CommunityName {
     private String pinnedEntry;
     private String timeOfPosting;
     private String id;
+    public String fromId;
 }

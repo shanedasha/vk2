@@ -14,4 +14,8 @@ public class CommentsInfo {
     private String replayOnComment;
     private String shareComment;
     private String timeOfComment;
+    private String canPost;
+    private String groupsCanPost;
+    private String canClose;
+    private String canOpen;
 }
