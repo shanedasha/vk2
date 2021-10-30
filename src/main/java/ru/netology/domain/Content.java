@@ -6,6 +6,6 @@ public class Content {
     private String video;
     private String artiсle;
     private String url;
-    private String id;
+    private int id;
     private String gif;
 }

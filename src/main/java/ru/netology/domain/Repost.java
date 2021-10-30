@@ -1,7 +1,7 @@
 package ru.netology.domain;
 
 public class Repost {
-    private String numberOfReposts;
-    private String repost;
-    private String userReposted;
+    private int numberOfReposts;
+    private int repost;
+    private int userReposted;
 }

@@ -1,21 +1,21 @@
 package ru.netology.domain;
 
 public class CommentsInfo {
-    private String numberOfComments;
+    private int numberOfComments;
     private String text;
-    private String likesOnComments;
+    private int likesOnComments;
     private String stickers;
     private String smiles;
     private String image;
     private String gif;
     private String video;
-    private String showNextOrPreviousComment;
-    private String filterOfComments;
-    private String replayOnComment;
-    private String shareComment;
-    private String timeOfComment;
-    private String canPost;
-    private String groupsCanPost;
-    private String canClose;
-    private String canOpen;
+    private boolean showNextOrPreviousComment;
+    private boolean filterOfComments;
+    private int replayOnComment;
+    private int shareComment;
+    private int timeOfComment;
+    private int canPost;
+    private int groupsCanPost;
+    private boolean canClose;
+    private boolean canOpen;
 }

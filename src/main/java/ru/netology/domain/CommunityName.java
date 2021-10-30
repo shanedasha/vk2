@@ -2,8 +2,8 @@ package ru.netology.domain;
 
 public class CommunityName {
     private String nameOfCommunity;
-    private String pinnedEntry;
-    private String timeOfPosting;
-    private String id;
-    public String fromId;
+    private boolean pinnedEntry;
+    private int timeOfPosting;
+    private int id;
+    public int fromId;
 }

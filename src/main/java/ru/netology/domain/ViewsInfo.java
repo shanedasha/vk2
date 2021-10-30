@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
 public class ViewsInfo {
-    private String numberOfViews;
+    private int numberOfViews;
     private String pictureOfEyes;
 }
