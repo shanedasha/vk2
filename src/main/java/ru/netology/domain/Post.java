@@ -3,10 +3,10 @@ package ru.netology.domain;
 public class Post {
     private String communityName;
     private String content;
-    private String like;
-    private String commentsInfo;
-    private String repost;
-    private String viewsInfo;
+    private int like;
+    private int commentsInfo;
+    private int repost;
+    private int viewsInfo;
     private int id;
     private int ownerId;
     private int fromId;

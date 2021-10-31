@@ -4,8 +4,8 @@ public class Like {
     private int numberOfLikes;
     private int colorChange;
     private String reactions;
-    private int userLike;
-    private int canLike;
-    private int canPublish;
+    private boolean userLike;
+    private boolean canLike;
+    private boolean canPublish;
 
 }
