@@ -4,7 +4,7 @@ public class Post {
     private String communityName;
     private String content;
     private int like;
-    private int commentsInfo;
+    private CommentsInfo commentsInfo;
     private int repost;
     private int viewsInfo;
     private int id;
